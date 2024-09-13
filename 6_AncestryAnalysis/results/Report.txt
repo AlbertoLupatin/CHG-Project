@@ -1,0 +1,2 @@
+sample.id	pop	type	contribution
+TCGA-A7-A4SE-Control	EUR	CLOSEST	EUR(25.09%)|EAS(24.99%)|AFR(24.97%)|SAS(24.95%)
